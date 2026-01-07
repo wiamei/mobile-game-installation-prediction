@@ -10,8 +10,6 @@ The objective is to predict **which game a user will install in the following mo
 - Class 4: Game C  
 
 The dataset contains **5,000 labeled training observations** and **55,000 test observations**.
-The task was part of a **Kaggle competition** used for academic evaluation at **HEC Montréal**.
-
 This project achieved **2nd place on the Kaggle leaderboard**, demonstrating strong predictive performance and robust generalization.
 
 ---
@@ -97,8 +95,7 @@ This ensures the model is not only performant but also explainable.
 | **Stacking (Meta LightGBM)**| **~0.82**| **~0.82**| **~0.96** |
 
 **Kaggle leaderboard:**  
-- 🥈 **2nd place overall**
-- ~84% accuracy on the public leaderboard
+- ~84% accuracy on the private leaderboard
 
 ---
 
